@@ -1,4 +1,10 @@
 # centos-plex-updater
+
+# Deprecated
+See: https://support.plex.tv/articles/235974187-enable-repository-updating-for-supported-linux-server-distributions/
+
+Clean migration path, rpm will handle updating the package in-place once you set up the new repo.
+
 ## What
 A script to manage updating a Plex install on CentOS. Tested on CentOS 7 x64.
 
